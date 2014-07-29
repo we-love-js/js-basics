@@ -6,3 +6,4 @@
 
 ### 关于regexp
 [mdn regexp](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
+[regular-expressions.info](http://www.regular-expressions.info/javascript.html)
