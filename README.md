@@ -3,3 +3,6 @@
 
 ### 关于curry
 [why curry helps](http://hughfdjackson.com/javascript/why-curry-helps/)
+
+### 关于regexp
+[mdn regexp](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
