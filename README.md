@@ -4,8 +4,11 @@
 ### 关于排序
 - [让你抓狂的排序教学视频](http://www.open-open.com/news/view/4020e9)
 
-## 关于继承
+### 关于继承
 - [basic inheritance with js constructors](http://designpepper.com/blog/drips/basic-inheritance-with-javascript-constructors.html)
+
+### es6 generator
+- [diving deeper with es6 generators](es6-generators-dive)
 
 ### 关于curry
 - [why curry helps](http://hughfdjackson.com/javascript/why-curry-helps/)
