@@ -7,6 +7,9 @@
 ### 关于继承
 - [basic inheritance with js constructors](http://designpepper.com/blog/drips/basic-inheritance-with-javascript-constructors.html)
 
+### 关于mixin
+- [A fresh look at JavaScript Mixins](http://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/)
+
 ### es6 generator
 - [diving deeper with es6 generators](es6-generators-dive)
 
