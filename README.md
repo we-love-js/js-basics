@@ -3,6 +3,7 @@
 
 ### 关于prototype
 - [js prototype in detail](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+- [understand js prototypes](http://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
 
 ### 关于排序
 - [让你抓狂的排序教学视频](http://www.open-open.com/news/view/4020e9)
