@@ -11,6 +11,9 @@
 ### 关于继承
 - [basic inheritance with js constructors](http://designpepper.com/blog/drips/basic-inheritance-with-javascript-constructors.html)
 
+### partial application
+- [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/)
+
 ### 关于mixin
 - [A fresh look at JavaScript Mixins](http://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/)
 
