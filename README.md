@@ -26,3 +26,6 @@
 ### 关于regexp
 - [mdn regexp](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
 - [regular-expressions.info](http://www.regular-expressions.info/javascript.html)
+
+### practises
+- [one-arity constructor](https://gcanti.github.io/2014/09/25/six-reasons-to-define-constructors-with-only-one-argument.html)
