@@ -2,7 +2,7 @@
 - [mdn-js-data-structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 
 ### scope
--[Everything you wanted to know about JavaScript scope](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
+- [Everything you wanted to know about JavaScript scope](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
 
 ### 关于prototype
 - [js prototype in detail](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
@@ -33,3 +33,6 @@
 
 ### practises
 - [one-arity constructor](https://gcanti.github.io/2014/09/25/six-reasons-to-define-constructors-with-only-one-argument.html)
+
+### dom
+- [dom event](http://www.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/)
