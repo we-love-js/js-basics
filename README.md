@@ -1,6 +1,9 @@
 ### 关于数据类型
 - [mdn-js-data-structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 
+### scope
+-[Everything you wanted to know about JavaScript scope](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
+
 ### 关于prototype
 - [js prototype in detail](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
 - [understand js prototypes](http://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
